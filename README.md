@@ -1,0 +1,2 @@
+# EpiWars
+Minecraft skywars plugin
