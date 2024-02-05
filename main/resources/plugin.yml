@@ -1,0 +1,13 @@
+name: EpiWars
+version: '${project.version}'
+main: com.julesdufraiche.epiwars.EpiWars
+api-version: '1.20'
+authors: [ 'Jules Dufraiche' ]
+description: EpiWars, made in 3 days!
+commands:
+  epiwars:
+    description: manage the game!
+  setspawn:
+    description: set world spawn!
+  spawn:
+    description: teleport player to the spawn!
